@@ -12,31 +12,7 @@ This landing page presents the critical HNDL (Harvest Now, Decrypt Later) threat
 - ChekQ AI monitoring
 - Zero-downtime cryptographic migration
 
-## ✨ Features
-
-### Interactive Canvas Animations
-- **Hero Canvas**: Dynamic CRQC (Cryptographically Relevant Quantum Computer) threat visualization with:
-  - Animated network graph showing quantum attack progression
-  - Rotating CRQC core with orbital electrons
-  - Shockwave effects and particle systems
-  - Scroll-driven animation progress
-
-- **Film Canvas**: 45-second animated story explaining:
-  - Present Security (TLS, PKI, RSA/AES)
-  - HNDL Attack (Harvest Now, Decrypt Later)
-  - Quantum Break (Shor's & Grover's algorithms)
-  - Quantum Secure Framework defense
-
-### Modern UI/UX Elements
-- Responsive navigation with mobile menu
-- Smooth scroll animations with Intersection Observer
-- Staggered card reveals with scroll-driven scaling
-- Interactive form with real-time validation
-- Aurora background effects
-- Cyber-themed grid overlays
-- Animated timeline visualization
-
-### Sections
+### Key Sections
 1. **Hero** — Quantum countdown with animated shield
 2. **HNDL Threat** — Deep dive into harvest-now-decrypt-later attacks
 3. **Film Showcase** — Animated visual story of the quantum threat
@@ -87,16 +63,6 @@ cd QF_WEBPAGE
    # Node.js (with npx)
    npx serve
    ```
-
-3. Navigate to `http://localhost:8000` in your browser
-
-### Deployment
-
-The site is static and can be deployed to any hosting platform:
-- **GitHub Pages**: Already configured
-- **Netlify**: Drag and drop the folder
-- **Vercel**: Connect your repository
-- **AWS S3**: Static website hosting
 
 ## 🎨 Design Features
 
